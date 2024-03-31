@@ -1,1 +1,1 @@
-Course of internet 
+Course of Full-stack-web-development 
